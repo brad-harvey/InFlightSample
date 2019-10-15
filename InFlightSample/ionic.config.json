@@ -1,6 +1,8 @@
 {
   "name": "InFlightSample",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular",
   "id": "904209e7"
 }

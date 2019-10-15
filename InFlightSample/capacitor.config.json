@@ -1,0 +1,7 @@
+{
+  "appId": "com.cmnhospitals.InFlight",
+  "appName": "InFlightSample",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

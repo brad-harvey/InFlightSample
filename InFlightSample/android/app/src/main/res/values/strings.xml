@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">InFlightSample</string>
+    <string name="title_activity_main">InFlightSample</string>
+    <string name="package_name">com.cmnhospitals.InFlightSample</string>
+    <string name="fileprovider_authority">com.cmnhospitals.InFlightSample.fileprovider</string>
+    <string name="custom_url_scheme">com.cmnhospitals.InFlightSample</string>
+</resources>
