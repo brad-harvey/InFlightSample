@@ -1,5 +1,5 @@
 {
-  "appId": "com.cmnhospitals.InFlightSample",
+  "appId": "com.cmnhospitals.InFlight",
   "appName": "InFlightSample",
   "bundledWebRuntime": false,
   "npmClient": "npm",
